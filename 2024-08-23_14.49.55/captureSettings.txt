@@ -1,0 +1,2 @@
+Image	Mode	Lens	Analogue Gain	Red Gain	Green Gain	Blue Gain	Gamma	Dyes	Eye	
+All	Fluorescein Topography (SCL)	SCL	2.065267	1.149961	11.497266	1.299922	1.029000	Fluorescein	

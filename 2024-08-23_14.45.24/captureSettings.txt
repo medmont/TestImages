@@ -1,0 +1,2 @@
+Image	Mode	Lens	Analogue Gain	Red Gain	Green Gain	Blue Gain	Gamma	Dyes	Eye	
+All	Blue Blue Scleral	SCL	1.304362	1.000000	1.149961	5.498828	0.975000		25.4mm	

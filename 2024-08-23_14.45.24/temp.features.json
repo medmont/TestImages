@@ -1,0 +1,54 @@
+{
+    "features": {
+        "leftLineFiducial0": {
+            "x": 306.6040229797363,
+            "y": 769.4463806152344,
+            "majorAxis": 17.855228424072266,
+            "minorAxis": 17.855228424072266,
+            "angle_degrees": -1.0,
+            "name": "(left)",
+            "regionProcessing": "TrimFeatures"
+        },
+        "rightLineFiducial0": {
+            "x": 1332.5641174316406,
+            "y": 775.0941390991211,
+            "majorAxis": 18.667760848999023,
+            "minorAxis": 18.667760848999023,
+            "angle_degrees": -1.0,
+            "name": "(right)",
+            "regionProcessing": "TrimFeatures"
+        },
+        "leftCentreFocusDot0": {
+            "x": 760.4856567382812,
+            "y": 771.91552734375,
+            "majorAxis": 24.970088958740234,
+            "minorAxis": 24.970088958740234,
+            "angle_degrees": 0.0,
+            "name": "",
+            "regionProcessing": "TrimFeatures"
+        },
+        "rightCentreFocusDot0": {
+            "x": 871.9829711914062,
+            "y": 773.4841918945312,
+            "majorAxis": 24.32151107788086,
+            "minorAxis": 24.32151107788086,
+            "angle_degrees": 0.0,
+            "name": "",
+            "regionProcessing": "TrimFeatures"
+        },
+        "leftUserFiducialTarget": {
+            "coords": [
+                335.1600036621094,
+                772.0
+            ],
+            "radius": 61
+        },
+        "rightUserFiducialTarget": {
+            "coords": [
+                1305.3599853515625,
+                772.0
+            ],
+            "radius": 61
+        }
+    }
+}
